@@ -11,3 +11,7 @@ Status: Implemented
 
 ## T-7: create a admin profile
 Status: Implemented
+
+## T-8: Update information
+This task updates existing system information or improves data accuracy.
+**Status: Implemented**
